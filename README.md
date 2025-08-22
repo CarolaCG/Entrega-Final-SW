@@ -46,7 +46,7 @@ Esto funciona en Vercel, pero en un entorno profesional se recomienda usar kebab
 
 ## Deploy
 El proyecto está publicado en Vercel:
- https://sw-proyecto2.vercel.app/
+ [https://sw-proyecto2.vercel.app/](https://sw-proyecto2.vercel.app/)
 
 ## Conclusión
 El sitio cumple con:
