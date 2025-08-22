@@ -1,31 +1,62 @@
-# Entrega-Final-SW
-Se encuentra en el archivo ACTUALIZACION.md
+## Star Wars Fans
+Proyecto final del curso: sitio web estático para fans de Star Wars, desarrollado con HTML, CSS/SASS y Bootstrap.
+Incluye 5 secciones en archivos HTML independientes: Inicio, Personajes, Películas, Videojuegos, Galería y Cosplay.
 
-# Star Wars Fans
+## Objetivos del proyecto
+Realizar la estructura completa de un sitio web.
+Efectuar el estilo final con CSS y SASS.
+Aplicar SEO básico y avanzado.
+Implementar grids, flexbox y Bootstrap para responsive design.
+Publicar el proyecto en un servidor (Vercel).
 
-Sitio web dedicado a fans de Star Wars. 
-Este proyecto presenta una estructura avanzada en HTML, CSS y el uso parcial de Bootstrap.
+## Tecnologías utilizadas
+HTML5 → estructura semántica y etiquetas SEO.
+CSS3 / SASS → nesting, variables, mixins, operadores y media queries.
+Bootstrap 5 → grillas y utilidades responsive.
+Flexbox & CSS Grid → disposición de galerías y tarjetas.
+Git + GitHub → control de versiones.
+Vercel → despliegue en servidor público.
 
-## Estructura
+## SEO aplicado
+meta title, description, keywords, author.
+Open Graph (og:title, og:image, etc.) y Twitter Cards.
+Atributos alt descriptivos en imágenes.
+Archivo canonical en cada página.
+Datos estructurados (JSON-LD).
 
-- Página principal con secciones de personajes, películas y contacto.
-- Galería de imágenes que se abre en una nueva pestaña.
+## Responsive Design
+Diseño adaptado a mobile, tablet y desktop.
+Uso de media queries en SASS.
+Evita overflow-x para una navegación limpia.
+Galerías con grid-template-columns: repeat(auto-fit, minmax(...)).
 
-## Tecnologías usadas
+## Estilos avanzados
+Animación en el banner principal con efecto de flotación.
+Hover effects en las tarjetas de personajes y galería.
+Transiciones suaves en imágenes y botones.
+Sombra y escalado en tarjetas (transform: scale).
 
-- HTML5 Semántico
-- CSS3 avanzado (media queries, grid, hover effects)
-- Bootstrap 5 (Navbar)
+## Buenas prácticas aplicadas
+Código HTML y SCSS prolijo, indentado y comentado.
+Reutilización de estilos gracias a variables y mixins.
+Uso de loading="lazy" y decoding="async" en imágenes para performance.
+Rutas relativas correctas para imágenes y páginas.
+Nota: algunos archivos de imágenes contienen espacios (Han Solo.jpg).
+# Esto funciona en Vercel, pero en un entorno profesional se recomienda usar kebab-case (han-solo.jpg).
 
-## Cómo usar
+## Deploy
+El proyecto está publicado en Vercel:
+ https://sw-proyecto2.vercel.app/
 
-1. Clona este repositorio
-2. Abre `index.html` en tu navegador
-3. Asegúrate de tener la carpeta `/img` con las imágenes correspondientes
+## Conclusión
+El sitio cumple con:
 
-## Créditos
+Estructura HTML limpia y semántica.
+Estilos modernos y responsive.
+SEO básico implementado.
+SASS con nesting, variables y mixins.
+Animaciones y transiciones para dinamismo.
+Proyecto online y accesible desde cualquier dispositivo.
 
-© 2025 Carola Star Wars Fans
-# SW-Caro
 
 
