@@ -42,7 +42,7 @@ Reutilización de estilos gracias a variables y mixins.
 Uso de loading="lazy" y decoding="async" en imágenes para performance.
 Rutas relativas correctas para imágenes y páginas.
 Nota: algunos archivos de imágenes contienen espacios (Han Solo.jpg).
-# Esto funciona en Vercel, pero en un entorno profesional se recomienda usar kebab-case (han-solo.jpg).
+Esto funciona en Vercel, pero en un entorno profesional se recomienda usar kebab-case (han-solo.jpg).
 
 ## Deploy
 El proyecto está publicado en Vercel:
