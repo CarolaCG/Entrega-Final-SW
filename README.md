@@ -24,3 +24,4 @@ Este proyecto presenta una estructura avanzada en HTML, CSS y el uso parcial de 
 
 © 2025 Carola Star Wars Fans
 # SW-Caro
+# Entrega-Final-SW
